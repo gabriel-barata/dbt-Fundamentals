@@ -14,8 +14,8 @@ This certificate guarantees his user's able to model, test, document, and deploy
 ## What is dbt ?
 
 According to the oficial dbt [docs](https://docs.getdbt.com/docs/introduction)
->"dbt™ is a SQL-first transformation workflow  that lets teams quickly and collaboratively deploy analytics code following software
->engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines."
+>dbt™ is a SQL-first transformation workflow  that lets teams quickly and collaboratively deploy analytics code following software
+>engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
 dbt stands for **Data Build Tool** and allows users to define their data models using SQL, and then uses these models to generate optimized SQL code that can be run against a data warehouse or other data storage system. This allows users to build a maintainable and scalable data infrastructure that can be easily updated and extended over time.
 
