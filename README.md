@@ -1,11 +1,10 @@
-# dbt-Fundamentals
-
-
-## About this Repo
+# dbt Fundamentals Certification
 
 <div style="text-align: right">
   <img src="dbt_badge.png" alt="Example Image" width="200" style="margin-left: 20px;">
 </div>
+
+## About this Repo
 
 This repository stores the project developed during the course **dbt Fundamentals**, needed for obtaining the oficial certificate.
 This certificate guarantees his user's able to model, test, document, and deploy dbt models.
